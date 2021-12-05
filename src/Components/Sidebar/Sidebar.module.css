@@ -1,0 +1,5 @@
+.sidebar {
+  width: 420px;
+  /* height should be flexible */
+  height: 1000px;
+}

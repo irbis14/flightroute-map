@@ -1,0 +1,31 @@
+.timelineSlider {
+  box-sizing: border-box;
+  display: flex;
+  padding: 40px;
+  padding: 40px;
+  height: 200px;
+  background-color: #27282c;
+  outline: 1px solid gray;
+}
+
+.slider {
+  margin-top: 60px;
+}
+
+.label {
+  display: block;
+  width: 45px;
+  height: 100%;
+  margin-top: auto;
+  font-size: 11px;
+  font-weight: 500;
+  height: 28px;
+  color: #f8f8fa;
+}
+
+/* .label::after {
+  position: absolute;
+  content: '';
+  height: 80px;
+  border: 1px solid #f8f8fa;
+} */
